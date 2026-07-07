@@ -6,6 +6,6 @@
 ##     ## ##  ##   ##          OS: henry.ks 2026 (Student Edition)
 ######### #####     ######     Host: NYC
 ##     ## ##  ##         ##    Disk: 150% capacity
-##     ## ##   ##  ##    ##    DE: <del>Vim</del> VS Code
+##     ## ##   ##  ##    ##    DE: V̶i̶m̶ VS Code
 ##     ## ##    ##  ######     CPU: Brain (overclocked)
 ```
