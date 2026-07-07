@@ -1,4 +1,4 @@
-# henry.ks — neofetch
+## henry.ks — neofetch
 
 ```
 ##     ## ##    ##  ######     henry.ks
